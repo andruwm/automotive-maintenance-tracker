@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# Goreleaser output
+dist/
+
+# Vscode settings
+.vscode
+
+# Dev binary
+./amt
